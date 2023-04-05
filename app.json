@@ -1,6 +1,6 @@
 {
-    "name": "Lucithon",
-    "description": " اهلا بكم في تنصيب سورس صيد اليوزرات !",
+    "name": "TNT",
+    "description": "TNT اهلا بكم في تنصيب سورس صيد اليوزرات !",
     "logo" : "https://telegra.ph/file/cb60fceba65dfa36bd80a.jpg",
     "stack": "container",
     "repository": "https://github.com/perdark/per-sed",

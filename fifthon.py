@@ -104,12 +104,12 @@ async def _(event):
     end = datetime.datetime.now()
     ms = (end - start).microseconds / 1000
     await event.edit(f'''
-**☆ Welcome to Source TNT
-☆ Version : 2.6
+**☆ Welcome to Source lucithon
+☆ Version : 2.4 vip
 ☆ Ping : `{ms}`
 ☆ Date : `{m9zpi}`
 ☆ ID : `{event.sender_id}`
-☆ Source TNT : @X_K_5**
+☆ Source TNT: @Is_TnT
 ''')
 
 
@@ -142,7 +142,7 @@ ownerhson_id = 1314630552
 async def OwnerStart(event):
     sender = await event.get_sender()
     if sender.id == ownerhson_id :
-        order = await event.reply('●━━━━━━ @X_K_5 ━━━━━━●')
+        order = await event.reply('●━━━━━━ @x_k_5 ━━━━━━●')
 
 
 @fifthon.on(events.NewMessage(outgoing=True, pattern=r"\.اعادة تشغيل"))

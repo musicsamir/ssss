@@ -249,17 +249,12 @@ async def _(event):
                     await fifthon(functions.channels.UpdateUsernameRequest(
                         channel=ch, username=username))
                     await event.client.send_message(event.chat_id, f'''
-●━━━━━━━━●
-┏━━━━━┓
-- By ↣ @X_K_5
-┗━━━━━┛
-┏━━━━━┓
-↣ (@{username})
-┗━━━━━┛
-┏━━━━━┓
-- By ↣@XTNTXX
-┗━━━━━┛
-●━━━━━━━━●
+•- 𝑑𝑜𝑛𝑒 •-@x_k_5
+
+•- 𝑢𝑠𝑒𝑟 •-(@{username})
+ 
+•- 𝑐ℎ  •-@is_TnT
+
 
     ''')
                     break
@@ -273,7 +268,7 @@ async def _(event):
                     if "A wait of" in str(eee):
                         break
                     else:
-                        await fifthon.send_message(event.chat.id, " اجاك متاح !")
+                        await fifthon.send_message(event.chat.id, "حجي اجاك متاح !")
             else:
                 pass
             trys += 1
@@ -317,17 +312,12 @@ async def _(event):
                         await fifthon(functions.channels.UpdateUsernameRequest(
                             channel=ch, username=username))
                         await event.client.send_message(event.chat_id, f'''
-●━━━━━━━━●
-┏━━━━━┓
-- By ↣ @X_K_5
-┗━━━━━┛
-┏━━━━━┓
-↣ (@{username})
-┗━━━━━┛
-┏━━━━━┓
-- By ↣@XTNTXX
-┗━━━━━┛
-●━━━━━━━━●
+•- 𝑑𝑜𝑛𝑒 •-@x_k_5
+
+•- 𝑢𝑠𝑒𝑟 •-(@{username})
+ 
+•- 𝑐ℎ  •-@is_TNT
+
 
     ''')
                         break
@@ -359,17 +349,12 @@ async def _(event):
                 await fifthon(functions.channels.UpdateUsernameRequest(
                     channel=ch, username=username))
                 await event.client.send_message(event.chat_id, f'''
-●━━━━━━━━●
-┏━━━━━┓
-- By ↣ @X_K_5
-┗━━━━━┛
-┏━━━━━┓
-↣ (@{username})
-┗━━━━━┛
-┏━━━━━┓
-- By ↣@XTNTXX
-┗━━━━━┛
-●━━━━━━━━●
+•- 𝑑𝑜𝑛𝑒 •-@x_k_5
+
+•- 𝑢𝑠𝑒𝑟 •-(@{username})
+ 
+•- 𝑐ℎ  •-@is_TNT
+
 
     ''')
             except telethon.errors.rpcerrorlist.UsernameInvalidError:

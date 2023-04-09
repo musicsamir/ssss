@@ -105,11 +105,11 @@ async def _(event):
     ms = (end - start).microseconds / 1000
     await event.edit(f'''
 **☆ Welcome to Source lucithon
-☆ Version : 2.4 vip
+☆ Version : 2.4
 ☆ Ping : `{ms}`
 ☆ Date : `{m9zpi}`
 ☆ ID : `{event.sender_id}`
-☆ Source TNT: @Is_TnT
+☆ Source lucithon : @x_k_5**
 ''')
 
 

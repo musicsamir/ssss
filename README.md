@@ -1,3 +1,3 @@
-### FOR : [LUCITHON](https://t.me/LUCITHON) ###
+### FOR : [TNT](https://t.me/Is_TNT) ###
 
-![LUCITHON](https://telegra.ph/file/4992d6e018a251fee31b1.jpg)
+![TNT](https://telegra.ph/file/4992d6e018a251fee31b1.jpg)

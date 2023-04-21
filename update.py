@@ -1,4 +1,4 @@
-# This file didn't used in the userbot because it has error
+
 import threading
 import asyncio
 import contextlib

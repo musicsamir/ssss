@@ -3,7 +3,7 @@ from telethon import events
 from help import *
 
 
-@sython.on(events.NewMessage(outgoing=True))
+@istnt.on(events.NewMessage(outgoing=True))
 async def _(event):
     id = str(event.sender_id)
     idas = await sython.get_messages("sedupay", limit=1)

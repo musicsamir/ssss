@@ -14,7 +14,6 @@ import asyncio
 import logging
 import base64
 import datetime
-from payment import *
 from help import *
 from config import *
 from checktele import *
